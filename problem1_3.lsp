@@ -11,3 +11,9 @@
                        (fib_help b (+ a b) (- n 1)))))
     (fib_help 0 1 n))
 )
+
+(trace fib1)
+(trace fib2)
+
+(fib1 5)
+(fib2 5)

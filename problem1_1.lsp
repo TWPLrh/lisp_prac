@@ -20,3 +20,6 @@
 
 	)
 )
+
+(print (prime 13))
+(print (prime 14))

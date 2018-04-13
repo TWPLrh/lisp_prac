@@ -11,3 +11,6 @@
 		)
 	)		
 )
+
+(print (palindrome '(ab bb cb bb ab)))
+(print (palindrome '(a b c a)))
