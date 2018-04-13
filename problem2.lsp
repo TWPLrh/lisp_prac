@@ -22,3 +22,5 @@
    (setf tmp (cons (read) tmp))))
  (format t "~{~A ~}~%" (mergesort numbers)))
 
+
+

@@ -21,5 +21,7 @@
 	)
 )
 
+(print '(prime 13))
 (print (prime 13))
+(print '(prime 14))
 (print (prime 14))
